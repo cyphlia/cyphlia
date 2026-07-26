@@ -56,7 +56,7 @@ I'd rather publish a method that's honestly competitive with the state of the ar
 than one that's dishonestly "the best" — every claim above is backed by a
 significance test, not an average.
 
-**[→ Full repo](#)**
+**[→ Full repo](https://github.com/cyphlia/HPO-HMC)**
 
 ---
 
